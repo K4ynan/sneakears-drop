@@ -1,0 +1,222 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.cabecalho {
+    position: absolute;
+    width: 1919px;
+    height: 81px;
+    left: 0px;
+    top: 0px;
+    background: #D9D9D9;
+}
+
+h1 {
+    position: absolute;
+    width: 1919px;
+    height: 81px;
+    left: 110px;
+    top: 6px;
+    font-size: 27px;
+}
+
+input {
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 1200px;
+    top: 28px;
+    background: transparent;
+    border-radius: 5px;
+    border: 0.5px solid black;
+}
+
+img {
+    position: absolute;
+    height: 50px;
+    left: 50px;
+    top: 10px;
+}
+
+.glass img {
+    position: absolute;
+    left: 1210px;
+    top: 37px;
+    width: 19px;
+    height: 19px;
+}
+
+.bag img {
+    position: absolute;
+    width: 27px;
+    height: 29px;
+    left: 1550px;
+    top: 27px;
+}
+
+h2 {
+    position: absolute;
+    top: 100px;
+    left: 60px;
+}
+
+.logo img {
+    position: absolute;
+    width: 90px;
+    height: 32px;
+    left: 71px;
+    top: 193px;
+}
+
+.nike h1 {
+    position: absolute;
+    width: 42px;
+    height: 24px;
+    left: 171px;
+    top: 170px;
+}
+
+.nike p {
+    position: absolute;
+    left: 171px;
+    top: 209px;
+
+}
+
+.tenis img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 71px;
+    top: 263px;
+    color: black;
+}
+
+.tenis p {
+    color: black;
+    position: absolute;
+    left: 115px;
+    top: 537px;
+}
+
+.tenis1 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 372px;
+    top: 263px;
+}
+
+.tenis1 p {
+    position: absolute;
+    left: 395px;
+    top: 537px;
+}
+
+.tenis2 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 679px;
+    top: 263px;
+}
+
+.tenis2 p {
+    position: absolute;
+    left: 724px;
+    top: 537px;
+}
+
+.tenis3 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 995px;
+    top: 263px;
+}
+
+.tenis3 p {
+    position: absolute;
+    left: 1026px;
+    top: 537px;
+}
+
+.logo2 img {
+    position: absolute;
+    width: 89px;
+    height: 51px;
+    left: 71px;
+    top: 616px;
+}
+
+.adidas h1 {
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    left: 171px;
+    top: 600px;
+}
+
+.adidas p {
+    position: absolute;
+    left: 171px;
+    top: 637px;
+}
+
+.adidas1 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 71px;
+    top: 686px;
+}
+
+.adidas1 p {
+    position: absolute;
+    left: 127px;
+    top: 958px;
+}
+
+.adidas2 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 372px;
+    top: 686px;
+}
+
+.adidas2 p {
+    position: absolute;
+    left: 421px;
+    top: 958px;
+}
+
+.adidas3 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 679px;
+    top: 686px;
+}
+
+.adidas3 p {
+    position: absolute;
+    left: 720px;
+    top: 958px;
+}
+
+.adidas4 img {
+    position: absolute;
+    width: 241px;
+    height: 265px;
+    left: 995px;
+    top: 686px;
+}
+
+.adidas4 p {
+    position: absolute;
+    left: 1031px;
+    top: 958px;
+}
