@@ -26,13 +26,13 @@ h1 {
 
 input {
     position: absolute;
-    width: 300px;
-    height: 30px;
+    width: 200px;
+    height: 25px;
     left: 1200px;
-    top: 28px;
+    top: 31px;
     background: transparent;
     border-radius: 5px;
-    border: 0.5px solid black;
+    border: 1px solid black;
 }
 
 img {
@@ -40,11 +40,12 @@ img {
     height: 50px;
     left: 50px;
     top: 10px;
+    cursor: pointer;
 }
 
 .glass img {
     position: absolute;
-    left: 1210px;
+    left: 1170px;
     top: 37px;
     width: 19px;
     height: 19px;
@@ -54,7 +55,7 @@ img {
     position: absolute;
     width: 27px;
     height: 29px;
-    left: 1550px;
+    left: 1440px;
     top: 27px;
 }
 
@@ -72,10 +73,15 @@ h2 {
     top: 193px;
 }
 
+img:hover {
+    scale: 1.1;
+    transition: 1s ease-in-out;
+}
+
 .nike h1 {
     position: absolute;
-    width: 42px;
-    height: 24px;
+    width: 50px;
+    height: 30px;
     left: 171px;
     top: 170px;
 }
@@ -94,6 +100,7 @@ h2 {
     left: 71px;
     top: 263px;
     color: black;
+    border-radius: 10px;
 }
 
 .tenis p {
@@ -109,6 +116,7 @@ h2 {
     height: 265px;
     left: 372px;
     top: 263px;
+    border-radius: 10px;
 }
 
 .tenis1 p {
@@ -123,6 +131,7 @@ h2 {
     height: 265px;
     left: 679px;
     top: 263px;
+    border-radius: 10px;
 }
 
 .tenis2 p {
@@ -137,6 +146,7 @@ h2 {
     height: 265px;
     left: 995px;
     top: 263px;
+    border-radius: 10px;
 }
 
 .tenis3 p {
@@ -173,6 +183,7 @@ h2 {
     height: 265px;
     left: 71px;
     top: 686px;
+    border-radius: 10px;
 }
 
 .adidas1 p {
@@ -187,6 +198,7 @@ h2 {
     height: 265px;
     left: 372px;
     top: 686px;
+    border-radius: 10px;
 }
 
 .adidas2 p {
@@ -201,6 +213,7 @@ h2 {
     height: 265px;
     left: 679px;
     top: 686px;
+    border-radius: 10px;
 }
 
 .adidas3 p {
@@ -215,6 +228,7 @@ h2 {
     height: 265px;
     left: 995px;
     top: 686px;
+    border-radius: 10px;
 }
 
 .adidas4 p {
@@ -237,6 +251,7 @@ h2 {
     justify-content: center;
     width: 20%;
     color: #fff;
+    border-radius: 20px;
     
 }
 
@@ -246,13 +261,14 @@ h2 {
     color: #111;
     border-radius: 24px;
     padding: 14px 27px;
-    text-align: center;
-    width: fit-content;
-    font-weight: 500;
-    transition: opacity 250ms ease-in-out;
     min-width: 127px;
     top: 200px;
-    right: 200px;
+}
+
+button:hover {
+    background-color: #111;
+    color: white;
+    border: #FFF solid;
 }
 
 .jordan h1{
@@ -263,5 +279,10 @@ h2 {
     padding: 0;
     box-sizing: border-box;
     list-style: none;
+    margin-top: 20px;
+}
+
+#pulando{
+    margin-top: 5px;
 }
 
